@@ -1,4 +1,4 @@
 # demorepo
 this is my first git repository
 <br>
-Author:-Ankit Kumar Chaudhary
+Author:-Ankit Kumar Chaudhary IIITA
